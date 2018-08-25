@@ -1,0 +1,2 @@
+# Box-Shooter-Game-C-scripting
+Box Shooter Unity3D project, which will demonstrate your understanding of the creating a complex game system through the use of custom written scripts in C#, using code to dynamically modify gameObjects and components, creating user interface elements, creating visual polish through the use of particles, effects, and animations, triggering animations through code and the animator, building the project.
